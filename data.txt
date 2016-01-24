@@ -1,1 +1,5 @@
-this is a fake data file for the assignment
+#this is a fake data file for the assignment
+ASD,DEF,GTH
+ASD,DEF,GWF
+ASB,GTF,WED
+CSV,WOW,WTH
